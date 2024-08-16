@@ -4,6 +4,8 @@
 >Idle MMO Bot is a simple automation tool designed to help automate repetitive tasks in an Idle MMO game. The bot allows users to perform actions like navigating through dungeons, returning to the main menu, and stopping the current action with a click of a button.
 > 
 >Game: https://web.idle-mmo.com/
+> 
+> Link to download: http://adfoc.us/864397105527495 (File.io) or http://adfoc.us/864397105527541 (Mega.nz)
 
 **:exclamation: Features**
 
